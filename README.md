@@ -15,14 +15,14 @@ The idea for the Random Group Generator originated from our personal experiences
 - <b>Python IDLE 
 - <b>Windows 10</b> (21H2)
 
-<h2>Contributions<h2>
-- <b>My specific contributions to the group project includes; typing, designing and implementing the algorithm, optimizing the code, testing and active ideation.
+<h2>Contributions</h2>
+<b>My specific contributions to the group project includes; typing, designing and implementing the algorithm, optimizing the code, testing and active ideation.
 
   
 
-Future Improvements:
+<h2>Future Improvements</h2>
 
-While the Random Group Generator code is fully functional, there are opportunities for future improvements. Some potential enhancements include adding additional features, optimizing the algorithm, refining the code structure.  
+While the Random Group Generator code is fully functional, there are opportunities for future improvements. Some potential enhancements include adding additional features, optimizing the algorithm, refining the code structure.   
   
 <h2>Program walk-through:</h2>
 
